@@ -23,3 +23,11 @@ Here are three principles:
 1) Isolated functions - there is no dependence on the state of the program, which includes global variables that are subject to change
 2) Pure functions - the same input always gives the same output
 3) Functions with limited side effects - any changes, or mutations, to the state of the program outside the function are carefully controlled
+
+## Terminology
+*Callbacks*: functions that are passed into another function to decide the invocation of that function. For example, `filter()` requires a callback function that tells JavaScript how (the criteria) to filter an array.
+
+Functions that can be assigned to a variable, passed into a function, or returned from another function are called *first class* functions. In JavaScript, every function is *first class*.
+
+However, if a function takes in another function as an argument, it becomes a *higher order* function. The function that gets passed in or returned can be called a *lambda*.
+
