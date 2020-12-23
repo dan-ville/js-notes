@@ -1,3 +1,5 @@
+[[Index]]
+
 # Classes
 
 Classes are part of [[ES6]], and they are an alternative way of creating Objects. They are syntactic sugar which lets you use a class in place of both a constructor and prototype. 

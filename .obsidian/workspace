@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0aee8a91c40a467b",
+        "id": "dcec9bdc7df3458c",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "ES6.md",
+            "file": "Make your own map function.md",
             "mode": "source"
           }
         }
@@ -48,6 +48,14 @@
                 "sortOrder": "alphabetical"
               }
             }
+          },
+          {
+            "id": "c51ec4906fde66e1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
           }
         ]
       }
@@ -69,12 +77,22 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ES6.md",
+                "file": "Make your own map function.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "26186b12886deb2e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Make your own map function.md"
               }
             }
           }
@@ -86,8 +104,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "ES6.md",
+    "Make your own map function.md",
+    "Functional Programming.md",
+    "Philosophy of programming.md",
+    "React.md",
+    "object oriented programming.md",
+    "Classes.md",
+    "DOM.md",
     "Index.md",
-    "object oriented programming.md"
+    "ES6.md",
+    "Untitled.md"
   ]
 }

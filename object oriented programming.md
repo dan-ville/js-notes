@@ -1,3 +1,5 @@
+[[Index]]
+
 # A Tutorial on Objects in JavaScript
 
 ## What is an object?
