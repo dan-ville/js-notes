@@ -1,3 +1,5 @@
+[[Index]]
+
 # Philosophy of Programming
 Think about this.
 

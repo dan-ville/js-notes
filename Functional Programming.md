@@ -24,6 +24,7 @@ Here are three principles:
 2) Pure functions - the same input always gives the same output
 3) Functions with limited side effects - any changes, or mutations, to the state of the program outside the function are carefully controlled
 
+<<<<<<< HEAD
 ## Terminology
 *Callbacks*: functions that are passed into another function to decide the invocation of that function. For example, `filter()` requires a callback function that tells JavaScript how (the criteria) to filter an array.
 
@@ -32,3 +33,7 @@ Functions that can be assigned to a variable, passed into a function, or returne
 However, if a function takes in another function as an argument, it becomes a *higher order* function. The function that gets passed in or returned can be called a *lambda*.
 
 ## Higher Order Functions
+=======
+Topics in functional programming curriculum:
+[[Make your own map function]]
+>>>>>>> e546874980253beed694c1d861d92a79e0358353

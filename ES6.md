@@ -1,3 +1,5 @@
+[[Index]]
+
 # EcmaScript 2015 (ES6)
 
 ## Default Parameters
