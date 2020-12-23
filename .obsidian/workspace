@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "e395cec3f585b5d4",
+    "type": "split",
+    "children": [
+      {
+        "id": "0aee8a91c40a467b",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ES6.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5286d55f43397530",
+    "type": "split",
+    "children": [
+      {
+        "id": "717d7792c335d2e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4d061d49d54b6d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5f7b21b41ad197fb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "12d22ffd98719d00",
+    "type": "split",
+    "children": [
+      {
+        "id": "076d60552a52bdca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "382d7399e894e95b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ES6.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "ES6.md",
+    "Index.md",
+    "object oriented programming.md"
+  ]
+}

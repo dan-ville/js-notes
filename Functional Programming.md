@@ -31,3 +31,4 @@ Functions that can be assigned to a variable, passed into a function, or returne
 
 However, if a function takes in another function as an argument, it becomes a *higher order* function. The function that gets passed in or returned can be called a *lambda*.
 
+## Higher Order Functions
