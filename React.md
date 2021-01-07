@@ -1,7 +1,7 @@
 [[Index]]
 
 # React
-
+Check out a [[Brad Traversy React crash course|crash course by Brad Traversy]]
 [React](https://reactjs.org/) is a JavaScript library for building user interfaces.
 
 In addition to being knowledgeable on the JavaScript fundamentals, including how to work with data structures and [[Object Oriented Programming]], it's recommended to know a few topics in ES6+ before learning React. Primarily, you should know:
